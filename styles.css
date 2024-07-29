@@ -1,0 +1,13 @@
+footer {
+    text-align: center;
+}
+
+.icon { 
+    margin: 7px;
+    padding-top: 30px;
+    color: black;transition: all 1s;
+}
+.icon:hover{
+    transform: scale(0.5.0.5);
+    color: red;
+}
